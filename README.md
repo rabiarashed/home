@@ -2,12 +2,12 @@
 
 Parent | Child
 ------------ | -------------
-Home |  
- | Resume
- | Code
+Home | 
+: | Resume
+: | Code
 Resume | 
- | Resume
+: | Resume
 Code | 
- | Java
- | C
- | Web
+: | Java
+: | C
+: | Web
