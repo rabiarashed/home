@@ -1,8 +1,8 @@
 # home
-##Home folder
-###: Resume
-###:: Resume
-###: Code
-###:: Java
-###:: C
-###:: Web
+
+>: Resume
+>:: Resume
+>: Code
+>:: Java
+>:: C
+>:: Web
