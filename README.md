@@ -1,8 +1,13 @@
-# home
+# Directory contents
 
->: Resume
->:: Resume
->: Code
->:: Java
->:: C
->:: Web
+Parent | Child
+------------ | -------------
+Home |  
+ | Resume
+ | Code
+Resume | 
+ | Resume
+Code | 
+ | Java
+ | C
+ | Web
